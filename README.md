@@ -111,7 +111,7 @@ Got an interesting problem? Building something ambitious? Let's talk.
 
 [![Email](https://img.shields.io/badge/Email-jayarora3103@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayarora3103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayarora31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayarora31/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.xyz-00C7B7?style=for-the-badge&logoColor=white)](https://www.jayarora.xyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.xyz-00C7B7?style=for-the-badge&logoColor=white)](https://www.jayarora.tech/)
 
 <br>
 
