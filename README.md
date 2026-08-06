@@ -1,122 +1,198 @@
+
+
 <div align="center">
-  
-<img src="https://www.jayarora.xyz/finalvideo.gif" width="350" alt="Jay Arora"/>
 
-# Jay Arora
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300" alt="Kermit furiously typing"/>
 
-Full-Stack Developer | AI Engineer | Automation Architect
+*live footage: me writing this README instead of sleeping.*
+
+I build AI systems that automate work, tame messy workflows,<br>
+and occasionally make spreadsheets nervous.
+
+`coffee-powered` &nbsp; `agent whisperer` &nbsp; `chaos, but useful`
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.tech-00C7B7?style=for-the-badge&logoColor=white)](https://www.jayarora.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.tech-FFD54F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.jayarora.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayarora31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayarora31/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayarora3103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jayarora3103@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayarora3103@gmail.com)
 
 <br>
 
-
-</div>
-
----
-
-## About Me
-
-I build full-stack applications and AI-powered automation systems that actually solve real problems.
-
-I love combining solid backend architecture with AI agents that deliver consistent results. Right now I'm obsessed with automation, structured AI pipelines, and writing code that works while I sleep.
-
-Currently working with:
-- PydanticAI and LangChain for building reliable agent workflows
-- Creating automation systems that eliminate repetitive tasks
-- Designing scalable architectures that grow with demand
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Jay Arora"
-        self.focus = ["AI Agents", "Automation", "Scalable Systems"]
-        self.current_stack = ["PydanticAI", "LangChain", "FastAPI"]
-        self.fuel = "coffee + music + late-night commits"
+```text
+status: shipping serious work with suspiciously good jokes
 ```
 
+</div>
+
 ---
 
-## Tech Stack
+## `> whoami` (परिचय)
 
-<div align="left">
+Fullstack AI engineer who likes building systems that solve real problems instead of just looking impressive in a demo.
 
-### Languages
+Most days I'm wiring together AI tools, taming messy workflows, breaking things with confidence, and then turning the chaos into something teams can actually trust.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+```python
+class Jay:
+    location   = "Bangalore"        # strong coffee, traffic long enough to rethink architecture
+    builds     = ["AI agents", "automation systems", "things that work at 3 AM"]
+    debug_rule = "never trust a bug that disappears when observed"
+```
 
-### Backend and APIs
+<div align="center">
+<img src="assets/standup-baboon.gif" width="360" alt="Very serious engineer at work"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+*rare footage of me in sprint standup, taking extremely important notes.*
+</div>
 
-### Frontend
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## `> words_i_live_by` (जीवन_सूत्र)
 
-### AI and Automation
+> **"Build what matters. Learn from chaos. Panic gracefully. Ship anyway."**
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+---
 
-### Databases
+## `> currently_causing_productive_chaos` (निर्माण)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### [CutDraft](https://cutdraft.xyz/) → AI-powered video editor *(work in progress)*
 
-### DevOps and Cloud
+I got tired of editing videos for longer than it takes to record them. So I'm building **CutDraft**. The plan: it does the boring parts, you take the credit.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+> You: "make this watchable."
+> CutDraft: "say less." 🎬
+
+*Currently under construction. Side effects may eventually include: finished videos, free evenings, and dangerously high confidence.*
+
+---
+
+## `> weapons_of_choice` (तकनीकी_कौशल)
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,cs&theme=dark" alt="Python, TypeScript, JavaScript, C#"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,flask&theme=dark" alt="FastAPI, Django, Node.js, Express, Flask"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="PostgreSQL, MongoDB, Redis, MySQL"/>
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions,rabbitmq&theme=dark" alt="AWS, Azure, Docker, Git, GitHub Actions, RabbitMQ"/>
+
+**AI & Agents**
+
+`LangChain` `LangGraph` `PydanticAI` `CrewAI` `LlamaIndex` `mem0` `OpenAI` `LLM fine-tuning`
+
+**AI Infrastructure & Vector Stores**
+
+`Groq` `Langfuse` `n8n` `Langflow` `Qdrant` `Pinecone` `Chroma`
 
 </div>
 
 ---
 
-## Philosophy
+## `> debugging_my_patience` (मनोरंजन)
 
-> "First, solve the problem. Then, write the code."
-
-I believe in purpose-driven code where every line solves a real problem. If you do something twice, automate it. AI agents should be predictable and reliable, not mysterious black boxes. Always build for today but architect for tomorrow.
-
-
----
-
-## Let's Connect
-
-Got an interesting problem? Building something ambitious? Let's talk.
+A documentary series about every developer's emotional stability. Now streaming. Critics call it *"too real."*
 
 <div align="center">
 
-### Get In Touch
+<img src="assets/loading-cat.gif" width="280" alt="1% loading"/>
+
+*Episode 1: Docker build at 1%. Twenty minutes now. The cat and I have accepted our fate.*
+
+<br><br>
+
+<img src="https://media.giphy.com/media/QZyBvNVaMbIZ9yadec/giphy.gif" width="240" alt="Skeleton waiting"/>
+
+*Episode 2: still waiting for someone to review my PR.*
+
+<br><br>
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="360" alt="This is fine"/>
+
+*Episode 3: everything is fine. The production logs are just... decorative.*
+
+<br><br>
+
+<img src="https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif" width="360" alt="No god please no"/>
+
+*Episode 4: PM: "tiny change, let's deploy Friday at 6 PM."*
+
+<br><br>
+
+<img src="https://media.giphy.com/media/vuEAn3bsY9rEs5mXvg/giphy.gif" width="300" alt="Me leaving work on Friday"/>
+
+*Episode 5: me right after saying no to the Friday deploy.*
+
+<br><br>
+
+<img src="https://media.giphy.com/media/PtdOBG0BD9Vvi/giphy.gif" width="380" alt="Victory dance"/>
+
+*Season finale: all tests green on the first run. Highly suspicious. Dancing anyway.*
+
+</div>
+
+---
+
+## `> outside_the_terminal` (रुचियाँ)
+
+- ☕ **Coffee.** The best code gets written between the first sip and the brave decisions.
+- ✍️ **Poetry.** Every line of code has either poetry in it or a very creative bug.
+- 🏸 **Badminton.** Played like it is a production incident.
+- 📚 Reading &nbsp;•&nbsp; ✈️ Traveling
+
+---
+
+## `> faq` (सवाल_जवाब)
+
+**Q: "But it works on my machine?"**
+A: Great. We ship your machine then. That's literally what Docker is.
+
+**Q: How do you debug?**
+A: `print("here")` → `print("here2")` → `print("WHY")`. Ancient technique. Undefeated.
+
+**Q: Tabs or spaces?**
+A: Whatever the formatter decides. I don't argue with robots. I build them.
+
+**Q: How many bugs are in your code?**
+A: Yes.
+
+<div align="center">
+<img src="https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif" width="260" alt="Mind blown"/>
+
+*me when the bug disappears after I add one print statement.*
+</div>
+
+---
+
+## `> ping_me_maybe` (संपर्क)
+
+If you're building something ambitious, useful, or slightly unreasonable in a good way, we should talk. I like hard problems, thoughtful teams, and products that do more than collect buzzwords.
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jayarora3103@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayarora3103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayarora31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayarora31/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.tech-00C7B7?style=for-the-badge&logoColor=white)](https://www.jayarora.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayarora.tech-FFD54F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.jayarora.tech/)
 
 <br>
 
----
-
-<sub>Building systems that work while you sleep</sub>
+```text
+> system.exit(0)  // no bugs were consulted in this decision
+```
 
 </div>
+
