@@ -103,48 +103,6 @@ I got tired of editing videos for longer than it takes to record them. So I'm bu
 
 ---
 
-## `> debugging_my_patience` (मनोरंजन)
-
-A documentary series about every developer's emotional stability. Now streaming. Critics call it *"too real."*
-
-<div align="center">
-
-<img src="assets/loading-cat.gif" width="280" alt="1% loading"/>
-
-*Episode 1: Docker build at 1%. Twenty minutes now. The cat and I have accepted our fate.*
-
-<br><br>
-
-<img src="https://media.giphy.com/media/QZyBvNVaMbIZ9yadec/giphy.gif" width="240" alt="Skeleton waiting"/>
-
-*Episode 2: still waiting for someone to review my PR.*
-
-<br><br>
-
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="360" alt="This is fine"/>
-
-*Episode 3: everything is fine. The production logs are just... decorative.*
-
-<br><br>
-
-<img src="https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif" width="360" alt="No god please no"/>
-
-*Episode 4: PM: "tiny change, let's deploy Friday at 6 PM."*
-
-<br><br>
-
-<img src="https://media.giphy.com/media/vuEAn3bsY9rEs5mXvg/giphy.gif" width="300" alt="Me leaving work on Friday"/>
-
-*Episode 5: me right after saying no to the Friday deploy.*
-
-<br><br>
-
-<img src="https://media.giphy.com/media/PtdOBG0BD9Vvi/giphy.gif" width="380" alt="Victory dance"/>
-
-*Season finale: all tests green on the first run. Highly suspicious. Dancing anyway.*
-
-</div>
-
 ---
 
 ## `> outside_the_terminal` (रुचियाँ)
@@ -156,25 +114,6 @@ A documentary series about every developer's emotional stability. Now streaming.
 
 ---
 
-## `> faq` (सवाल_जवाब)
-
-**Q: "But it works on my machine?"**
-A: Great. We ship your machine then. That's literally what Docker is.
-
-**Q: How do you debug?**
-A: `print("here")` → `print("here2")` → `print("WHY")`. Ancient technique. Undefeated.
-
-**Q: Tabs or spaces?**
-A: Whatever the formatter decides. I don't argue with robots. I build them.
-
-**Q: How many bugs are in your code?**
-A: Yes.
-
-<div align="center">
-<img src="https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif" width="260" alt="Mind blown"/>
-
-*me when the bug disappears after I add one print statement.*
-</div>
 
 ---
 
